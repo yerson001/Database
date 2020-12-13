@@ -1,0 +1,16 @@
+alumnos
+id INTEGER
+edad INTEGER
+nombre VARCHAR(15)
+apellido VARCHAR(15)
+fecha DATE
+-----------------------------------------
+
+alumnos2
+id INTEGER
+edad INTEGER
+nombre VARCHAR(15)
+apellido VARCHAR(15)
+fecha DATE
+-----------------------------------------
+
